@@ -1,0 +1,9 @@
+# General exclusions
+*/node_modules
+
+# Cypress files
+testing-with-cypress/cypress/screenshots
+testing-with-cypress/cypress/videos
+testing-with-cypress/cypress/cypress.env.json
+
+# Selenium files
